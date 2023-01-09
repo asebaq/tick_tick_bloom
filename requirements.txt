@@ -1,0 +1,15 @@
+pandas
+earthengine-api
+jupyter
+folium
+matplotlib
+xarray
+cartopy # before sudo apt -y install libgeos-dev
+cmocean
+cfgrib # eccodes ecmwflibs
+ecmwflibs # for cfgrib
+pystac_client
+planetary_computer
+xarray-spatial
+rioxarray
+odc-stac
